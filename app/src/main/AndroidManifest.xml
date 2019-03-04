@@ -21,10 +21,6 @@
 
         <activity android:name="edu.sfsu.csc780.chathub.ui.SignInActivity" />
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB5Ybj0eLTvg8lOrRc1bETgfnX9x53w-Go" />
-
     </application>
 
 </manifest>
