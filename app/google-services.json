@@ -8,20 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:250467257641:android:123c68aba501e686",
+        "mobilesdk_app_id": "1",
         "android_client_info": {
           "package_name": "edu.sfsu.csc780.chathub"
         }
       },
       "oauth_client": [
         {
-          "client_id": "250467257641-4092bhl4grvo41plvo7qlehs1qcusosv.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB5Ybj0eLTvg8lOrRc1bETgfnX9x53w-Go"
+          "current_key": ""
         }
       ],
       "services": {
